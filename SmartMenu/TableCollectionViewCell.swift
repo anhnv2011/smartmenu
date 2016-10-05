@@ -30,7 +30,8 @@ class TableCollectionViewCell: UICollectionViewCell{
         detailOrderTable.dataSource = self
         
         detailOrderTable.register(UINib(nibName: "DetailTableViewCell", bundle: nil), forCellReuseIdentifier: "CellTable")
-        
+        //asdasdasdasdasdasd
+        //adfaff
     }
    
   
