@@ -8,6 +8,8 @@
 
 #ifndef SQLITE_SmartMenu_Briding_Header_h
 #define SQLITE_SmartMenu_Briding_Header_h
-
-
+#import <sqlite3.h>
+#import "FMDB.h"
+#import "SWRevealViewController.h"
+//#import "RATreeView.h"
 #endif /* SQLITE_SmartMenu_Briding_Header_h */

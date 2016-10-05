@@ -7,3 +7,8 @@
 //
 
 import Foundation
+struct Label {
+    var displayTableName: String!
+    var id: Int!
+    var column: String!
+}

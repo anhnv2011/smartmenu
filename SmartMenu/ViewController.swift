@@ -12,7 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        //self.orderView.backgroundColor = UIColor(patternImage: UIImage(named: "background.png")!)
+        var dataBase = DataBase.sharedInstance
+        
+        
     }
 
     override func didReceiveMemoryWarning() {

@@ -7,3 +7,14 @@
 //
 
 import Foundation
+class Categories: NSObject
+{
+    var categoryId: Int!
+    var categoryName: NSString!
+    
+    init(categoryId: Int, categoryName: NSString)
+    {
+        self.categoryId = categoryId
+        self.categoryName = categoryName
+    }
+}
